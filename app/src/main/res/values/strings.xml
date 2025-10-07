@@ -5,6 +5,8 @@
     <string name="btn_greet">Dire bonjour</string>
     <string name="msg_greeting">Bonjour, %1$s !</string>
     <string name="title_counter">Compteur</string>
-    <string name="cd_decrement">Diminuer</string>
-    <string name="cd_increment">Augmenter</string>
+    <!-- New strings for counter buttons -->
+    <string name="cd_decrement">Decrement</string>
+    <string name="cd_increment">Increment</string>
+
 </resources>
